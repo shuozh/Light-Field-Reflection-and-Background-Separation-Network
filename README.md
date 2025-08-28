@@ -21,7 +21,7 @@ Make sure you have the following versions installed:
 
 
 > We selected a subset of images from the [Stanford Lytro dataset](http://lightfields.stanford.edu/LF2016.html) as a randomly synthesized training set for training. The list of images in the training set can be found in the file `trainfile_list.txt`.
-> The download link for the [test dataset](https://bjtueducn-my.sharepoint.com/:u:/g/personal/23120336_bjtu_edu_cn/Ed9g1rL2QHxCujluV7r9PBUBNUu05OXJxatdkOAvG6yCjA?e=v8Pvwz).
+> The download link for the [test dataset and our model](https://bjtueducn-my.sharepoint.com/:u:/g/personal/23120336_bjtu_edu_cn/Ed9g1rL2QHxCujluV7r9PBUBNUu05OXJxatdkOAvG6yCjA?e=v8Pvwz).
 
 
 
